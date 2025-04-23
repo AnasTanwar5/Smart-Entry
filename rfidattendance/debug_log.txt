@@ -1,0 +1,480 @@
+Received: card_uid=1108493602, device_token=38732f0408d99265
+Received: card_uid=330197493, device_token=38732f0408d99265
+Received: card_uid=1108493602, device_token=38732f0408d99265
+❌ Invalid device token: 38732f0408d99265
+Received: card_uid=1108493602, device_token=38732f0408d99265
+❌ Invalid device token: 38732f0408d99265
+Received: card_uid=1676036892, device_token=38732f0408d99265
+❌ Invalid device token: 38732f0408d99265
+Received: card_uid=1108493602, device_token=38732f0408d99265
+❌ Invalid device token: 38732f0408d99265
+Received: card_uid=1108493602, device_token=38732f0408d99265
+❌ Invalid device token: 38732f0408d99265
+Received: card_uid=330197493, device_token=38732f0408d99265
+❌ Invalid device token: 38732f0408d99265
+Received: card_uid=1108493602, device_token=38732f0408d99265
+❌ Invalid device token: 38732f0408d99265
+Received: card_uid=1108493602, device_token=38732f0408d99265
+❌ Invalid device token: 38732f0408d99265
+Received: card_uid=1108493602, device_token=38732f0408d99265
+❌ Invalid device token: 38732f0408d99265
+Received: card_uid=1108493602, device_token=2bb0b771de303904
+❌ Invalid device token: 2bb0b771de303904
+Received: card_uid=1108493602, device_token=2bb0b771de303904
+❌ Invalid device token: 2bb0b771de303904
+Received: card_uid=330197493, device_token=2bb0b771de303904
+❌ Invalid device token: 2bb0b771de303904
+Received: card_uid=330197493, device_token=2bb0b771de303904
+❌ Invalid device token: 2bb0b771de303904
+Received: card_uid=1108493602, device_token=2bb0b771de303904
+❌ Invalid device token: 2bb0b771de303904
+Received: card_uid=1108493602, device_token=2bb0b771de303904
+❌ Invalid device token: 2bb0b771de303904
+Received: card_uid=1676036892, device_token=2bb0b771de303904
+❌ Invalid device token: 2bb0b771de303904
+❌ Missing parameters!
+Received: card_uid=1108493602, device_token=2bb0b771de303904
+✅ Inserted card_uid: 1108493602
+Received: card_uid=1676036892, device_token=2bb0b771de303904
+✅ Inserted card_uid: 1676036892
+Received: card_uid=330197493, device_token=2bb0b771de303904
+✅ Inserted card_uid: 330197493
+Received: card_uid=1676036892, device_token=2bb0b771de303904
+✅ Inserted card_uid: 1676036892
+Received: card_uid=1108493602, device_token=2bb0b771de303904
+✅ Inserted card_uid: 1108493602
+Received: card_uid=1108493602, device_token=2bb0b771de303904
+✅ Inserted card_uid: 1108493602
+Received: card_uid=1676036892, device_token=2bb0b771de303904
+✅ Inserted card_uid: 1676036892
+Received: card_uid=1676036892, device_token=2bb0b771de303904
+✅ Inserted card_uid: 1676036892
+Received: card_uid=1676036892, device_token=2bb0b771de303904
+✅ Inserted card_uid: 1676036892
+Received: card_uid=1676036892, device_token=2bb0b771de303904
+✅ Inserted card_uid: 1676036892
+Received: card_uid=1108493602, device_token=2bb0b771de303904
+✅ Inserted card_uid: 1108493602
+Received: card_uid=1108493602, device_token=2bb0b771de303904
+✅ Inserted card_uid: 1108493602
+Received: card_uid=1108493602, device_token=2bb0b771de303904
+✅ Inserted card_uid: 1108493602
+Received: card_uid=1676036892, device_token=2bb0b771de303904
+✅ Inserted card_uid: 1676036892
+Received: card_uid=1676036892, device_token=2bb0b771de303904
+✅ Inserted card_uid: 1676036892
+Received: card_uid=1676036892, device_token=2bb0b771de303904
+✅ Inserted card_uid: 1676036892
+Received: card_uid=1676036892, device_token=2bb0b771de303904
+✅ Inserted card_uid: 1676036892
+===== New Request at 2025-03-16 21:15:19pm =====
+❌ Error: Missing card_uid or device_token!
+===== New Request at 2025-03-16 21:15:28pm =====
+❌ Error: Missing card_uid or device_token!
+===== New Request at 2025-03-16 21:15:34pm =====
+❌ Error: Missing card_uid or device_token!
+===== New Request at 2025-03-16 21:28:48pm =====
+❌ Error: Missing card_uid or device_token!
+===== New Request at 2025-03-16 21:28:51pm =====
+❌ Error: Missing card_uid or device_token!
+===== New Request at 2025-03-16 21:28:56pm =====
+❌ Error: Missing card_uid or device_token!
+===== New Request at 2025-03-17 08:02:18am =====
+❌ Error: Missing card_uid or device_token!
+===== New Request at 2025-03-17 08:02:32am =====
+❌ Error: Missing card_uid or device_token!
+===== New Request at 2025-03-17 08:04:30am =====
+❌ Error: Missing card_uid or device_token!
+===== New Request at 2025-03-17 08:04:40am =====
+❌ Error: Missing card_uid or device_token!
+===== New Request at 2025-03-17 08:04:51am =====
+❌ Error: Missing card_uid or device_token!
+===== New Request at 2025-03-23 20:22:27pm =====
+❌ Error: Missing card_uid or device_token!
+===== New Request at 2025-03-23 20:22:30pm =====
+❌ Error: Missing card_uid or device_token!
+===== New Request at 2025-03-23 20:22:33pm =====
+❌ Error: Missing card_uid or device_token!
+===== New Request at 2025-03-23 20:40:07pm =====
+Received Data: card_uid=63E64B1C, device_token=619afcf8e2c7f139
+✅ New card registered successfully!
+===== New Request at 2025-03-23 20:40:17pm =====
+Received Data: card_uid=42124522, device_token=619afcf8e2c7f139
+✅ New card registered successfully!
+===== New Request at 2025-03-23 20:40:22pm =====
+Received Data: card_uid=13AE69F5, device_token=619afcf8e2c7f139
+✅ New card registered successfully!
+===== New Request at 2025-03-23 20:40:23pm =====
+Received Data: card_uid=13AE69F5, device_token=619afcf8e2c7f139
+✅ Existing card selected for registration!
+===== New Request at 2025-03-23 20:45:15pm =====
+Received Data: card_uid=42124522, device_token=619afcf8e2c7f139
+✅ Card selected and updated successfully!
+===== New Request at 2025-03-23 20:45:18pm =====
+Received Data: card_uid=13AE69F5, device_token=619afcf8e2c7f139
+✅ Card selected and updated successfully!
+===== New Request at 2025-03-23 20:45:23pm =====
+Received Data: card_uid=63E64B1C, device_token=619afcf8e2c7f139
+✅ Card selected and updated successfully!
+===== New Request at 2025-03-23 20:48:58pm =====
+Received Data: card_uid=42124522, device_token=619afcf8e2c7f139
+✅ Card selected and updated successfully!
+===== New Request at 2025-03-23 20:49:02pm =====
+Received Data: card_uid=13AE69F5, device_token=619afcf8e2c7f139
+✅ Card selected and updated successfully!
+===== New Request at 2025-03-23 20:49:05pm =====
+Received Data: card_uid=63E64B1C, device_token=619afcf8e2c7f139
+✅ Card selected and updated successfully!
+===== New Request at 2025-03-26 12:01:56pm =====
+Received Data: card_uid=63E64B1C, device_token=619afcf8e2c7f139
+✅ Card selected and updated successfully!
+===== New Request at 2025-03-26 12:01:58pm =====
+Received Data: card_uid=13AE69F5, device_token=619afcf8e2c7f139
+✅ Card selected and updated successfully!
+===== New Request at 2025-03-26 12:02:03pm =====
+Received Data: card_uid=42124522, device_token=619afcf8e2c7f139
+✅ Card selected and updated successfully!
+===== New Request at 2025-03-26 12:02:15pm =====
+Received Data: card_uid=42124522, device_token=619afcf8e2c7f139
+⚠️ Card detected but not registered!
+===== New Request at 2025-03-26 12:02:17pm =====
+Received Data: card_uid=63E64B1C, device_token=619afcf8e2c7f139
+⚠️ Card detected but not registered!
+===== New Request at 2025-03-26 12:02:22pm =====
+Received Data: card_uid=13AE69F5, device_token=619afcf8e2c7f139
+⚠️ Card detected but not registered!
+===== New Request at 2025-03-26 12:33:20pm =====
+Received Data: card_uid=63E64B1C, device_token=619afcf8e2c7f139
+✅ Card selected and updated successfully!
+===== New Request at 2025-03-26 12:33:23pm =====
+Received Data: card_uid=13AE69F5, device_token=619afcf8e2c7f139
+✅ Card selected and updated successfully!
+===== New Request at 2025-03-26 12:33:25pm =====
+Received Data: card_uid=42124522, device_token=619afcf8e2c7f139
+✅ Card selected and updated successfully!
+===== New Request at 2025-03-26 12:36:27pm =====
+Received Data: card_uid=1676036892, device_token=619afcf8e2c7f139
+✅ New card registered and selected successfully!
+===== New Request at 2025-03-26 12:36:30pm =====
+Received Data: card_uid=1108493602, device_token=619afcf8e2c7f139
+✅ New card registered and selected successfully!
+===== New Request at 2025-03-26 12:37:32pm =====
+Received Data: card_uid=1676036892, device_token=619afcf8e2c7f139
+✅ Card selected and updated successfully!
+===== New Request at 2025-03-26 12:37:47pm =====
+Received Data: card_uid=330197493, device_token=619afcf8e2c7f139
+✅ New card registered and selected successfully!
+===== New Request at 2025-03-26 12:37:48pm =====
+Received Data: card_uid=1108493602, device_token=619afcf8e2c7f139
+✅ Card selected and updated successfully!
+===== New Request at 2025-03-26 12:41:07pm =====
+Received Data: card_uid=1676036892, device_token=619afcf8e2c7f139
+✅ Card selected and updated successfully!
+===== New Request at 2025-03-26 12:41:10pm =====
+Received Data: card_uid=1108493602, device_token=619afcf8e2c7f139
+✅ Card selected and updated successfully!
+===== New Request at 2025-03-26 12:41:13pm =====
+Received Data: card_uid=330197493, device_token=619afcf8e2c7f139
+✅ Card selected and updated successfully!
+===== New Request at 2025-03-26 12:59:39pm =====
+Received Data: card_uid=1108493602, device_token=619afcf8e2c7f139
+✅ New card registered and selected successfully!
+===== New Request at 2025-03-26 12:59:43pm =====
+Received Data: card_uid=1676036892, device_token=619afcf8e2c7f139
+✅ New card registered and selected successfully!
+===== New Request at 2025-03-26 12:59:46pm =====
+Received Data: card_uid=330197493, device_token=619afcf8e2c7f139
+✅ New card registered and selected successfully!
+===== New Request at 2025-03-26 13:00:41pm =====
+Received Data: card_uid=1676036892, device_token=619afcf8e2c7f139
+✅ New card registered and selected successfully!
+===== New Request at 2025-03-26 13:01:37pm =====
+Received Data: card_uid=1108493602, device_token=619afcf8e2c7f139
+✅ New card registered and selected successfully!
+===== New Request at 2025-03-26 13:02:58pm =====
+Received Data: card_uid=1676036892, device_token=619afcf8e2c7f139
+✅ New card registered and selected successfully!
+===== New Request at 2025-03-26 13:03:32pm =====
+Received Data: card_uid=1108493602, device_token=619afcf8e2c7f139
+✅ New card registered and selected successfully!
+===== New Request at 2025-03-26 13:04:17pm =====
+Received Data: card_uid=330197493, device_token=619afcf8e2c7f139
+✅ New card registered and selected successfully!
+===== New Request at 2025-03-26 13:04:58pm =====
+Received Data: card_uid=1108493602, device_token=619afcf8e2c7f139
+✅ User Shruti Saroj logged in!
+===== New Request at 2025-03-26 13:05:01pm =====
+Received Data: card_uid=1676036892, device_token=619afcf8e2c7f139
+✅ User Lucky Sharma logged in!
+===== New Request at 2025-03-26 13:05:04pm =====
+Received Data: card_uid=330197493, device_token=619afcf8e2c7f139
+✅ User Suleiman Patel logged in!
+===== New Request at 2025-03-26 13:05:23pm =====
+Received Data: card_uid=1676036892, device_token=619afcf8e2c7f139
+✅ User Lucky Sharma logged out!
+===== New Request at 2025-03-26 13:05:27pm =====
+Received Data: card_uid=330197493, device_token=619afcf8e2c7f139
+✅ User Suleiman Patel logged out!
+===== New Request at 2025-03-26 13:05:30pm =====
+Received Data: card_uid=1108493602, device_token=619afcf8e2c7f139
+✅ User Shruti Saroj logged out!
+===== New Request at 2025-03-26 13:05:37pm =====
+Received Data: card_uid=1676036892, device_token=619afcf8e2c7f139
+✅ User Lucky Sharma logged in!
+===== New Request at 2025-03-26 13:05:43pm =====
+Received Data: card_uid=1108493602, device_token=619afcf8e2c7f139
+✅ User Shruti Saroj logged in!
+===== New Request at 2025-03-26 13:05:49pm =====
+Received Data: card_uid=330197493, device_token=619afcf8e2c7f139
+✅ User Suleiman Patel logged in!
+===== New Request at 2025-03-26 15:47:54pm =====
+Received Data: card_uid=1676036892, device_token=619afcf8e2c7f139
+✅ User Lucky Sharma logged out!
+===== New Request at 2025-03-26 15:48:09pm =====
+Received Data: card_uid=1108493602, device_token=619afcf8e2c7f139
+✅ User Shruti Saroj logged out!
+===== New Request at 2025-03-26 15:48:23pm =====
+Received Data: card_uid=330197493, device_token=619afcf8e2c7f139
+✅ User Suleiman Patel logged out!
+===== New Request at 2025-03-26 15:48:31pm =====
+Received Data: card_uid=1676036892, device_token=619afcf8e2c7f139
+✅ User Lucky Sharma logged in!
+===== New Request at 2025-03-26 15:48:37pm =====
+Received Data: card_uid=1108493602, device_token=619afcf8e2c7f139
+✅ User Shruti Saroj logged in!
+===== New Request at 2025-03-26 15:48:45pm =====
+Received Data: card_uid=330197493, device_token=619afcf8e2c7f139
+✅ User Suleiman Patel logged in!
+===== New Request at 2025-03-26 15:49:48pm =====
+Received Data: card_uid=1676036892, device_token=619afcf8e2c7f139
+✅ User Lucky Sharma logged out!
+===== New Request at 2025-03-26 15:49:54pm =====
+Received Data: card_uid=1108493602, device_token=619afcf8e2c7f139
+✅ User Shruti Saroj logged out!
+===== New Request at 2025-03-26 15:49:58pm =====
+Received Data: card_uid=330197493, device_token=619afcf8e2c7f139
+✅ User Suleiman Patel logged out!
+===== New Request at 2025-03-26 15:51:33pm =====
+Received Data: card_uid=1676036892, device_token=619afcf8e2c7f139
+✅ User Lucky Sharma logged in!
+===== New Request at 2025-03-26 15:51:37pm =====
+Received Data: card_uid=1108493602, device_token=619afcf8e2c7f139
+✅ User Shruti Saroj logged in!
+===== New Request at 2025-03-26 15:51:42pm =====
+Received Data: card_uid=330197493, device_token=619afcf8e2c7f139
+✅ User Suleiman Patel logged in!
+===== New Request at 2025-03-26 15:52:13pm =====
+Received Data: card_uid=1676036892, device_token=619afcf8e2c7f139
+✅ User Lucky Sharma logged in!
+===== New Request at 2025-03-26 15:52:18pm =====
+Received Data: card_uid=330197493, device_token=619afcf8e2c7f139
+✅ User Suleiman Patel logged in!
+===== New Request at 2025-03-26 15:52:22pm =====
+Received Data: card_uid=1108493602, device_token=619afcf8e2c7f139
+✅ User Shruti Saroj logged in!
+===== New Request at 2025-03-26 15:52:28pm =====
+Received Data: card_uid=1676036892, device_token=619afcf8e2c7f139
+✅ User Lucky Sharma logged out!
+===== New Request at 2025-03-26 15:52:33pm =====
+Received Data: card_uid=1108493602, device_token=619afcf8e2c7f139
+✅ User Shruti Saroj logged out!
+===== New Request at 2025-03-26 15:52:37pm =====
+Received Data: card_uid=330197493, device_token=619afcf8e2c7f139
+✅ User Suleiman Patel logged out!
+===== New Request at 2025-03-26 15:52:43pm =====
+Received Data: card_uid=1676036892, device_token=619afcf8e2c7f139
+✅ User Lucky Sharma logged in!
+===== New Request at 2025-03-26 15:52:49pm =====
+Received Data: card_uid=330197493, device_token=619afcf8e2c7f139
+✅ User Suleiman Patel logged in!
+===== New Request at 2025-03-26 15:52:52pm =====
+Received Data: card_uid=1108493602, device_token=619afcf8e2c7f139
+✅ User Shruti Saroj logged in!
+===== New Request at 2025-03-26 15:53:00pm =====
+Received Data: card_uid=1676036892, device_token=619afcf8e2c7f139
+✅ User Lucky Sharma logged out!
+===== New Request at 2025-03-26 15:53:04pm =====
+Received Data: card_uid=330197493, device_token=619afcf8e2c7f139
+✅ User Suleiman Patel logged out!
+===== New Request at 2025-03-26 15:53:07pm =====
+Received Data: card_uid=1108493602, device_token=619afcf8e2c7f139
+✅ User Shruti Saroj logged out!
+===== New Request at 2025-03-27 23:58:49pm =====
+Received Data: card_uid=1676036892, device_token=619afcf8e2c7f139
+✅ User Lucky Sharma logged in!
+===== New Request at 2025-03-27 23:58:53pm =====
+Received Data: card_uid=1108493602, device_token=619afcf8e2c7f139
+✅ User Shruti Saroj logged in!
+===== New Request at 2025-03-27 23:58:56pm =====
+Received Data: card_uid=330197493, device_token=619afcf8e2c7f139
+✅ User Suleiman Patel logged in!
+===== New Request at 2025-03-27 23:59:08pm =====
+Received Data: card_uid=1676036892, device_token=619afcf8e2c7f139
+✅ User Lucky Sharma logged out!
+===== New Request at 2025-03-27 23:59:14pm =====
+Received Data: card_uid=330197493, device_token=619afcf8e2c7f139
+✅ User Suleiman Patel logged out!
+===== New Request at 2025-03-27 23:59:19pm =====
+Received Data: card_uid=1108493602, device_token=619afcf8e2c7f139
+✅ User Shruti Saroj logged out!
+===== New Request at 2025-03-28 00:00:20am =====
+Received Data: card_uid=1676036892, device_token=619afcf8e2c7f139
+✅ User Lucky Sharma logged in!
+===== New Request at 2025-03-28 00:00:26am =====
+Received Data: card_uid=1676036892, device_token=619afcf8e2c7f139
+✅ User Lucky Sharma logged out!
+===== New Request at 2025-03-28 00:00:34am =====
+Received Data: card_uid=1108493602, device_token=619afcf8e2c7f139
+✅ User Shruti Saroj logged in!
+===== New Request at 2025-03-28 00:00:37am =====
+Received Data: card_uid=330197493, device_token=619afcf8e2c7f139
+✅ User Suleiman Patel logged in!
+===== New Request at 2025-03-28 00:00:40am =====
+Received Data: card_uid=1108493602, device_token=619afcf8e2c7f139
+✅ User Shruti Saroj logged out!
+===== New Request at 2025-03-28 00:00:42am =====
+Received Data: card_uid=330197493, device_token=619afcf8e2c7f139
+✅ User Suleiman Patel logged out!
+===== New Request at 2025-04-04 11:18:05am =====
+❌ Error: Missing parameters! POST data: Array
+(
+)
+, GET data: Array
+(
+)
+
+===== New Request at 2025-04-04 11:19:14am =====
+Received Data: card_uid=1676036892, device_token=619afcf8e2c7f139
+✅ User Lucky Sharma logged in!
+===== New Request at 2025-04-04 11:19:23am =====
+Received Data: card_uid=1676036892, device_token=619afcf8e2c7f139
+✅ User Lucky Sharma logged out!
+===== New Request at 2025-04-04 11:21:25am =====
+Received Data: card_uid=1676036892, device_token=619afcf8e2c7f139
+✅ User Lucky Sharma logged in!
+===== New Request at 2025-04-04 11:21:29am =====
+Received Data: card_uid=1676036892, device_token=619afcf8e2c7f139
+✅ User Lucky Sharma logged out!
+===== New Request at 2025-04-04 11:21:35am =====
+Received Data: card_uid=1108493602, device_token=619afcf8e2c7f139
+✅ User Shruti Saroj logged in!
+===== New Request at 2025-04-04 11:21:44am =====
+Received Data: card_uid=1108493602, device_token=619afcf8e2c7f139
+✅ User Shruti Saroj logged out!
+===== New Request at 2025-04-04 11:21:50am =====
+Received Data: card_uid=330197493, device_token=619afcf8e2c7f139
+✅ User Suleiman Patel logged in!
+===== New Request at 2025-04-04 11:21:59am =====
+Received Data: card_uid=330197493, device_token=619afcf8e2c7f139
+✅ User Suleiman Patel logged out!
+===== New Request at 2025-04-04 11:33:00am =====
+Received Data: card_uid=330197493, device_token=619afcf8e2c7f139
+✅ User Suleiman Patel logged in!
+===== New Request at 2025-04-04 11:34:29am =====
+Received Data: card_uid=1676036892, device_token=619afcf8e2c7f139
+✅ User Lucky Sharma logged in!
+===== New Request at 2025-04-04 11:34:42am =====
+Received Data: card_uid=1676036892, device_token=619afcf8e2c7f139
+✅ User Lucky Sharma logged out!
+===== New Request at 2025-04-16 19:54:47pm =====
+Received Data: card_uid=1676036892, device_token=caa8b6bb5969bdc0
+❌ Error: Device not registered!
+===== New Request at 2025-04-16 19:55:17pm =====
+Received Data: card_uid=1676036892, device_token=caa8b6bb5969bdc0
+❌ Error: Device not registered!
+===== New Request at 2025-04-16 19:56:48pm =====
+Received Data: card_uid=1676036892, device_token=d77c03408ef50429
+✅ New card registered and selected successfully!
+===== New Request at 2025-04-16 20:27:41pm =====
+Received Data: card_uid=1108493602, device_token=d77c03408ef50429
+✅ New card registered and selected successfully!
+===== New Request at 2025-04-16 20:28:49pm =====
+Received Data: card_uid=1676036892, device_token=d77c03408ef50429
+✅ Card selected and updated successfully!
+===== New Request at 2025-04-16 20:29:17pm =====
+Received Data: card_uid=1108493602, device_token=d77c03408ef50429
+✅ Card selected and updated successfully!
+===== New Request at 2025-04-16 20:29:25pm =====
+Received Data: card_uid=330197493, device_token=d77c03408ef50429
+✅ New card registered and selected successfully!
+===== New Request at 2025-04-16 20:29:27pm =====
+Received Data: card_uid=330197493, device_token=d77c03408ef50429
+✅ Card selected and updated successfully!
+===== New Request at 2025-04-16 20:34:38pm =====
+Received Data: card_uid=1676036892, device_token=d77c03408ef50429
+✅ User Lucky Sharma logged in!
+===== New Request at 2025-04-16 20:34:43pm =====
+Received Data: card_uid=1676036892, device_token=d77c03408ef50429
+✅ User Lucky Sharma logged out!
+===== New Request at 2025-04-16 20:34:49pm =====
+Received Data: card_uid=1108493602, device_token=d77c03408ef50429
+✅ User Shruti Saroj logged in!
+===== New Request at 2025-04-16 20:35:03pm =====
+Received Data: card_uid=1108493602, device_token=d77c03408ef50429
+✅ User Shruti Saroj logged out!
+===== New Request at 2025-04-16 20:35:16pm =====
+Received Data: card_uid=330197493, device_token=d77c03408ef50429
+✅ User Suleiman Patel logged in!
+===== New Request at 2025-04-16 20:35:33pm =====
+Received Data: card_uid=330197493, device_token=d77c03408ef50429
+✅ User Suleiman Patel logged out!
+===== New Request at 2025-04-22 11:30:36am =====
+Received Data: card_uid=1676036892, device_token=d77c03408ef50429
+✅ User Lucky Sharma logged in!
+===== New Request at 2025-04-22 11:30:41am =====
+Received Data: card_uid=1676036892, device_token=d77c03408ef50429
+✅ User Lucky Sharma logged out!
+===== New Request at 2025-04-22 11:31:16am =====
+Received Data: card_uid=1108493602, device_token=d77c03408ef50429
+✅ User Shruti Saroj logged in!
+===== New Request at 2025-04-22 11:31:23am =====
+Received Data: card_uid=1108493602, device_token=d77c03408ef50429
+✅ User Shruti Saroj logged out!
+===== New Request at 2025-04-22 11:31:26am =====
+Received Data: card_uid=330197493, device_token=d77c03408ef50429
+✅ User Suleiman Patel logged in!
+===== New Request at 2025-04-22 11:31:40am =====
+Received Data: card_uid=330197493, device_token=d77c03408ef50429
+✅ User Suleiman Patel logged out!
+===== New Request at 2025-04-22 11:32:31am =====
+Received Data: card_uid=330197493, device_token=d77c03408ef50429
+✅ User Suleiman Patel logged in!
+===== New Request at 2025-04-22 11:33:04am =====
+Received Data: card_uid=330197493, device_token=d77c03408ef50429
+❌ Error: No user found for card UID: 330197493
+===== New Request at 2025-04-22 11:33:08am =====
+Received Data: card_uid=330197493, device_token=d77c03408ef50429
+❌ Error: No user found for card UID: 330197493
+===== New Request at 2025-04-22 11:33:24am =====
+Received Data: card_uid=330197493, device_token=d77c03408ef50429
+✅ New card registered and selected successfully!
+===== New Request at 2025-04-22 11:35:16am =====
+Received Data: card_uid=330197493, device_token=d77c03408ef50429
+✅ New card registered and selected successfully!
+===== New Request at 2025-04-22 12:20:26pm =====
+Received Data: card_uid=1676036892, device_token=d77c03408ef50429
+✅ Card selected and updated successfully!
+===== New Request at 2025-04-22 12:20:31pm =====
+Received Data: card_uid=1676036892, device_token=d77c03408ef50429
+✅ Card selected and updated successfully!
+===== New Request at 2025-04-22 12:20:47pm =====
+Received Data: card_uid=1676036892, device_token=d77c03408ef50429
+✅ User Lucky Sharma logged in!
+===== New Request at 2025-04-22 12:21:08pm =====
+Received Data: card_uid=1676036892, device_token=d77c03408ef50429
+✅ User Lucky Sharma logged out!
+===== New Request at 2025-04-22 12:23:52pm =====
+Received Data: card_uid=1108493602, device_token=d77c03408ef50429
+✅ User Shruti Saroj logged in!
+===== New Request at 2025-04-22 12:24:21pm =====
+Received Data: card_uid=1108493602, device_token=d77c03408ef50429
+✅ User Shruti Saroj logged out!
+===== New Request at 2025-04-22 12:33:31pm =====
+Received Data: card_uid=330197493, device_token=d77c03408ef50429
+✅ New card registered and selected successfully!
+===== New Request at 2025-04-22 12:34:10pm =====
+Received Data: card_uid=330197493, device_token=d77c03408ef50429
+✅ User Anas tanwar logged out!
+===== New Request at 2025-04-22 12:34:19pm =====
+Received Data: card_uid=330197493, device_token=d77c03408ef50429
+✅ User Anas tanwar logged in!
